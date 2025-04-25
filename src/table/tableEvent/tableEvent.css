@@ -1,0 +1,12 @@
+.table-event {
+  height: 20px;
+  overflow: hidden;
+  margin-top: 2px;
+  &.musician {
+    background-color: mediumaquamarine;
+  }
+
+  &.leader {
+    background-color: orange;
+  }
+}

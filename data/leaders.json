@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Henry VIII",
+    "title": "King of England",
+    "birth_country": "England",
+    "birth_date": "28 June 1491",
+    "death_date": "28 January 1547"
+  },
+  {
+    "name": "George Washington",
+    "title": "President of the United States of America",
+    "birth_country": "United States of America",
+    "birth_date": "22 February 1732",
+    "death_date": "14 December 1799"
+  }
+]

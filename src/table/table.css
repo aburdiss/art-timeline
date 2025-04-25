@@ -1,0 +1,32 @@
+.table {
+  width: 100%;
+  height: 100%;
+  overflow-x: scroll;
+  position: relative;
+}
+.table-background {
+  height: 100%;
+  z-index: -1;
+  display: flex;
+}
+.table-foreground {
+  position: absolute;
+  top: 40px;
+  overflow-y: auto;
+}
+.table .column {
+  flex-shrink: 0;
+  height: 100vh;
+  border-right: 1px solid black;
+
+  &.bold {
+    border-right: 2.5px solid black;
+  }
+
+  .year-label {
+    position: absolute;
+    writing-mode: vertical-lr;
+    padding: 2px;
+    bottom: 0;
+  }
+}
