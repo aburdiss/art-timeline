@@ -16,12 +16,9 @@ export function table(data: AllData): HTMLElement {
   const tableForeground = document.createElement('div');
   tableForeground.classList.add('table-foreground');
 
-  const musicanEvents = data.musicians.map(tableEvent);
+  const events = data.people.map(tableEvent);
 
-  const leaderEvents = data.leaders.map(tableEvent);
-
-  appendAllChildren(tableForeground, musicanEvents);
-  appendAllChildren(tableForeground, leaderEvents);
+  appendAllChildren(tableForeground, events);
 
   table.appendChild(tableBackgroundElement);
   table.appendChild(tableForeground);

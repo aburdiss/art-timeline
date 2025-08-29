@@ -1,8 +1,7 @@
 /// <reference types="vite/client" />
 
 export type AllData = {
-  musicians: TableEvent[];
-  leaders: TableEvent[];
+  people: TableEvent[];
 };
 
 export type TableEvent = {

@@ -4,6 +4,7 @@ import { TableEvent } from '../..';
 import constants from '../../../data/_constants.json';
 import { getEventWidth } from './getEventWidth';
 import { getEventStartPosition } from './getEventStartPosition';
+import { parseDate } from '../../utils/parseDate';
 
 export function tableEvent(eventData: TableEvent): HTMLElement {
   const { yearWidth, timelineStart } = constants;
@@ -13,16 +14,14 @@ export function tableEvent(eventData: TableEvent): HTMLElement {
   eventElement.title = eventData.name;
 
   const eventWidth = getEventWidth(
-    new Date(eventData.birth_date ?? ''),
-    new Date(eventData.death_date ?? '')
+    parseDate(eventData.birth_date),
+    parseDate(eventData.death_date)
   );
 
-  const eventStart = getEventStartPosition(
-    new Date(eventData.birth_date ?? '')
-  );
+  const eventStart = getEventStartPosition(parseDate(eventData.birth_date));
 
   eventElement.style.width = eventWidth + 'px';
-  eventElement.style.marginLeft = eventStart + 'px';
+  eventElement.style.left = eventStart + 'px';
 
   eventElement.innerHTML = `<span>${eventData.name}</span>`;
   return eventElement;

@@ -2,11 +2,23 @@
   height: 20px;
   overflow: hidden;
   margin-top: 2px;
+  background-color: lightgray;
+  position: relative;
+
   &.musician {
     background-color: mediumaquamarine;
   }
 
+  &.artist {
+    background-color: skyblue;
+  }
+
   &.leader {
+    background-color: rebeccapurple;
+    color: white;
+  }
+
+  &.influential-person {
     background-color: orange;
   }
 }

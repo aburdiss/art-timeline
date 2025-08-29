@@ -7,10 +7,38 @@
     "death_date": "28 January 1547"
   },
   {
+    "name": "Louis XIV",
+    "title": "King of France",
+    "birth_country": "France",
+    "birth_date": "5 September 1638",
+    "death_date": "1 September 1715"
+  },
+  {
     "name": "George Washington",
     "title": "President of the United States of America",
     "birth_country": "United States of America",
     "birth_date": "22 February 1732",
     "death_date": "14 December 1799"
+  },
+  {
+    "name": "Napoleon Bonaparte",
+    "title": "Emperor of the French",
+    "birth_country": "France",
+    "birth_date": "15 August 1769",
+    "death_date": "5 May 1821"
+  },
+  {
+    "name": "Abraham Lincoln",
+    "title": "President of the United States of America",
+    "birth_country": "United States of America",
+    "birth_date": "12 February 1809",
+    "death_date": "15 April 1865"
+  },
+  {
+    "name": "Queen Victoria",
+    "title": "Queen of England",
+    "birth_country": "England",
+    "birth_date": "24 May 1819",
+    "death_date": "22 January 1901"
   }
 ]

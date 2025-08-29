@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Johannes Gutenberg",
+    "title": "Inventor and craftsman",
+    "birth_country": "Germany",
+    "birth_date": "1393",
+    "death_date": "3 February 1468"
+  },
+  {
+    "name": "Christopher Columbus",
+    "title": "Explorer",
+    "birth_country": "Republic of Genoa",
+    "birth_date": "25 August 1451",
+    "death_date": "20 May 1506"
+  },
+  {
+    "name": "Martin Luther",
+    "title": "Priest, Theologian, Author, Hymnwriter",
+    "birth_country": "Holy Roman Empire",
+    "birth_date": "10 November 1483",
+    "death_date": "18 February 1546"
+  },
+  {
+    "name": "John Locke",
+    "title": "philosopher and physician",
+    "birth_country": "England",
+    "birth_date": "29 August 1632",
+    "death_date": " 28 October 1704"
+  },
+  {
+    "name": "Daniel Boone",
+    "title": "American pioneer and frontiersman",
+    "birth_country": "United States of America",
+    "birth_date": "2 November 1734",
+    "death_date": "26 September 1820"
+  },
+  {
+    "name": "Mahatma Gandhi",
+    "title": "lawyer, anti-colonial nationalist, political ethicist",
+    "birth_country": "India",
+    "birth_date": "2 October 1869",
+    "death_date": "30 January 1948"
+  }
+]

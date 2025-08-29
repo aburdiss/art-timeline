@@ -1,5 +1,29 @@
 [
   {
+    "name": "Guillaume de Machaut",
+    "birth_country": "France",
+    "birth_date": "1300",
+    "death_date": "April 1377",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Guillaume_de_Machaut",
+        "label": "Wikipedia"
+      }
+    ]
+  },
+  {
+    "name": "John Dunstaple",
+    "birth_country": "England",
+    "birth_date": "1390",
+    "death_date": "24 December 1453",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/John_Dunstaple",
+        "label": "Wikipedia"
+      }
+    ]
+  },
+  {
     "name": "Thomas Tallis",
     "birth_country": "England",
     "birth_date": "1505",
@@ -32,6 +56,78 @@
       {
         "title": "Missa Papae Marcelli",
         "completed": "1562"
+      }
+    ]
+  },
+  {
+    "name": "William Byrd",
+    "birth_country": "England",
+    "birth_date": "1540",
+    "death_date": "4 July 1623",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/William_Byrd",
+        "label": "Wikipedia"
+      }
+    ]
+  },
+  {
+    "name": "Henry Purcell",
+    "birth_country": "England",
+    "birth_date": "10 September 1659",
+    "death_date": "21 November 1695",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_Purcell",
+        "label": "Wikipedia"
+      }
+    ]
+  },
+  {
+    "name": "Johann Sebastian Bach",
+    "birth_country": "Germany",
+    "birth_date": "31 March 1685",
+    "death_date": "28 July 1750",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+        "label": "Wikipedia"
+      }
+    ]
+  },
+  {
+    "name": "Franz Joseph Haydn",
+    "birth_country": "Austria",
+    "birth_date": "31 March 1732",
+    "death_date": "31 May 1809",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Joseph_Haydn",
+        "label": "Wikipedia"
+      }
+    ]
+  },
+  {
+    "name": "Wolfgang Amadeus Mozart",
+    "birth_country": "Austria",
+    "birth_date": "27 January 1756",
+    "death_date": "5 December 1791",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+        "label": "Wikipedia"
+      }
+    ]
+  },
+  {
+    "name": "Ludwig van Beethoven",
+    "birth_country": "Germany",
+    "birth_date": "17 December 1770",
+    "death_date": "26 March 1827",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
+        "label": "Wikipedia"
       }
     ]
   }

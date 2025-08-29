@@ -4,7 +4,6 @@ export function tableBackground(root: HTMLElement) {
   const { timelineStart, timelineEnd, yearWidth } = constants;
   const numberOfTimelineColumns = timelineEnd - timelineStart + 1;
 
-  console.log(numberOfTimelineColumns);
   [...Array(numberOfTimelineColumns)].map(function (_, index) {
     const year = String(timelineStart + index);
     const column = document.createElement('div');

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Sandro Botticelli",
+    "birth_country": "Italy",
+    "birth_date": "1445",
+    "death_date": "May 17, 1510",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+        "label": "Wikipedia"
+      }
+    ]
+  },
+  {
+    "name": "Leonardo da Vinci",
+    "birth_country": "Italy",
+    "birth_date": "15 April 1452",
+    "death_date": "2 May 1519",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+        "label": "Wikipedia"
+      }
+    ]
+  },
+  {
+    "name": "Rembrandt",
+    "birth_country": "Dutch Republic",
+    "birth_date": "15 July 1606",
+    "death_date": "4 October 1669",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Rembrandt",
+        "label": "Wikipedia"
+      }
+    ]
+  },
+  {
+    "name": "Jacques-Louis David",
+    "birth_country": "France",
+    "birth_date": "30 August 1748",
+    "death_date": "29 December 1825",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Rembrandt",
+        "label": "Wikipedia"
+      }
+    ]
+  },
+  {
+    "name": "Gustave Doré",
+    "birth_country": "France",
+    "birth_date": "6 January 1832",
+    "death_date": "23 January 1883",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Rembrandt",
+        "label": "Wikipedia"
+      }
+    ]
+  },
+  {
+    "name": "Vincent van Gogh",
+    "birth_country": "Netherlands",
+    "birth_date": "30 March 1853",
+    "death_date": "29 July 1890",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh",
+        "label": "Wikipedia"
+      }
+    ]
+  }
+]
